@@ -21,7 +21,7 @@ GPU Support: Runs efficiently on CUDA-enabled devices.
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/text-to-image-stable-diffusion.git
+git clone https://github.com/your-username/Text_to_image.git
 cd text-to-image-stable-diffusion
 
 2. Create a Virtual Environment (Optional but Recommended)
