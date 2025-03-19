@@ -3,6 +3,12 @@ Text-to-Image Generation using Stable Diffusion & Streamlit
 
 This project demonstrates Text-to-Image Generation using Stable Diffusion and an interactive Streamlit UI. Users can enter a text prompt, adjust parameters, and generate an AI-created image using the Stable Diffusion model.
 
+
+![Screenshot 2025-03-19 193420](https://github.com/user-attachments/assets/ba93c81d-4ae6-4dc8-9519-6eceaeaf67a0)
+
+
+![Screenshot 2025-03-19 193838](https://github.com/user-attachments/assets/a863166e-012b-47eb-a277-06bdcd26cf7d)
+
 # Features
 
 User-friendly Web Interface: Built using Streamlit.
