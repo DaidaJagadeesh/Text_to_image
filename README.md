@@ -27,7 +27,7 @@ GPU Support: Runs efficiently on CUDA-enabled devices.
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/Text_to_image.git
+git clone https://github.com/DaidaJagadeesh/Text_to_image.git
 cd Text_to_image
 
 2. Create a Virtual Environment (Optional but Recommended)
